@@ -10,6 +10,7 @@ These drivers have been developped to test the output capabilities for these boa
 More specifically a test setup was measuring the max speed achieved for an SPI bus created between the memory of each of them:
    
    ESP's PSRAM <---> ESP32 <------> Arduino Mkr 
+      
       (ref post https://www.esp32.com/viewtopic.php?f=13&t=18047&sid=17b77fdbc56c3ed35d0481a16ee5b856)
    
    ESP's PSRAM <----> ESP32 <------> RPi3
