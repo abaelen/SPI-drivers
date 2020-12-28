@@ -28,7 +28,7 @@ Speeds of 17 - 18 Mhz were achieved.
 No duration tests were carried out.
 
 The goal of this endavour is to find the fastest path from parallel or serial bus to memory (having ADC in mind).
-- My other repositries are looking into finding the fastest path over USB to PC memory.
-- This repositry is looking into finding the fastest path over SPI to µP/µC's memory.
+- My other repositories are looking into finding the fastest path over USB to PC memory.
+- This repository is looking into finding the fastest path over SPI to µP/µC's memory.
 
 Future endavours will be investigating FPGA's capabilities handling parallel/SPI bus to memory.
