@@ -1,0 +1,5 @@
+source "C:/Users/Gebruiker/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/Gebruiker/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/Gebruiker/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/Gebruiker/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Projects/ESP32-Wrover-SPI-RAM-v2/slave/main/Kconfig.projbuild"
