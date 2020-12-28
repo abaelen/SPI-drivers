@@ -1,7 +1,7 @@
 # SPI-drivers
  SPI-drivers for ESP32 / Raspberry PI3 / Arduino M0/Mkr
 
-This repositry holds SPI drivers for 
+This repository holds SPI drivers for 
 1) ESP32 (DevkitC v4)
 2) Raspberry PI3 (user space using own driver)
 3) Arduino M0/Mkr - SAMD21G (Arduino Mkr 1010 Wifi)
