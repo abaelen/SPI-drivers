@@ -23,8 +23,12 @@ SPI drivers:
  
  - Arduino Mkr - own developped driver
  
-I appreciated ESP32 most, as the proprietary driver was used at 17Mhz speeds.
-The RPi3 could follow the speed, but required own developped driver.
+Speeds of 17 - 18 Mhz were achieved.
 
 No duration tests were carried out.
 
+The goal of this endavour is to find the fastest path from parallel or serial bus to memory (having ADC in mind).
+- My other repositries are looking into finding the fastest path over USB to PC memory.
+- This repositry is looking into finding the fastest path over SPI to µP/µC's memory.
+
+Future endavours will be investigating FPGA's capabilities handling parallel/SPI bus to memory.
