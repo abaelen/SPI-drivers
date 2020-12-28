@@ -31,9 +31,16 @@ The goal of this endavour is to find the fastest path from parallel or serial bu
 - My other repositories are looking into finding the fastest path over USB to PC memory.
 - This repository is looking into finding the fastest path over SPI to µP/µC's memory.
 
-Future endavours will be investigating FPGA's capabilities handling parallel/SPI bus to memory.
+Future endavours will be investigating FPGA's capabilities handling parallel/SPI bus to memory using Xilinx Cora Z6S
 Reason: 
 - None of the µC's (real time processing) offer USB3 speeds for direct PC interfacing.
-- Although ESP32 offers real easy solution, ie. high speed with (17Mhz) large memory (4MB) on FreeRTOS (therefore hinting real time processing), it is too little for real ADC processing. 17Mhz max would mean a Nyquist frequency of max 8Mhz.
+- Although ESP32 offers real easy solution, ie. high speed with (17Mhz) large memory (4MB) on FreeRTOS (therefore hinting real time processing), it is too little for real ADC processing. 17Mhz max would mean a Nyquist frequency of max 8Mhz. Furthermore more memory is required for higher speeds.
+
+Looking forward having fun with the Xilinx Cora Z6S!
+
+Keep making!
+
+
+
 
 
