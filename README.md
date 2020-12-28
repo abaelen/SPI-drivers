@@ -36,7 +36,7 @@ Reason:
 - None of the µC's (real time processing) offer USB3 speeds for direct PC interfacing.
 - Although ESP32 offers real easy solution, ie. high speed with (17Mhz) large memory (4MB) on FreeRTOS (therefore hinting real time processing), it is too little for real ADC processing. 17Mhz max would mean a Nyquist frequency of max 8Mhz. Furthermore more memory is required for higher speeds.
 
-Looking forward having fun with the Xilinx Cora Z6S!
+Looking forward getting feet wet with FPGA using the Xilinx Cora Z6S!
 
 Keep making!
 
