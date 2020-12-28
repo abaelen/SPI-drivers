@@ -18,7 +18,9 @@ More specifically a test setup was measuring the max speed achieved for an SPI b
 DMA was used for ESP32 & RPi3.
 SPI drivers: 
  ESP32 - driver provided by Espressif
+ 
  RPi3 - own developped driver in user space using the VideoCore access to DMA and memory
+ 
  Arduino Mkr - own developped driver
  
 I appreciated ESP32 most, as the proprietary driver was used at 17Mhz speeds.
